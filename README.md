@@ -1,6 +1,6 @@
 ## Crypto Data Feed
 ---
-Provide crypto data download with cli, supported incremental update feeds.
+Provides crypto data download in incremental update feeds.
 
 Usage:
 ```
