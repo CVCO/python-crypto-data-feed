@@ -12,7 +12,7 @@ import json
 
 def set_fetch_step(timeframe):
     '''
-    Sets the fetch step based on the time frame.
+    Sets the fetch step based on the timeframe.
     '''
     msec = 1000
     minute = 60 * msec
